@@ -1,0 +1,20 @@
+﻿  test.c
+D:\TestCAll\test_2_24\test_2_24\test.c(34,30): warning C4013: “strlen”未定义；假设外部返回 int
+D:\TestCAll\test_2_24\test_2_24\test.c(100,9): warning C4477: “printf”: 格式字符串“%p”需要类型“void *”的参数，但可变参数 1 拥有了类型“int”
+D:\TestCAll\test_2_24\test_2_24\test.c(100,9): warning C4313: "printf": 格式字符串中的 "%p" 与类型为 "int" 的参数 1 冲突
+D:\TestCAll\test_2_24\test_2_24\test.c(106,9): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“size_t”
+D:\TestCAll\test_2_24\test_2_24\test.c(106,9): message : 请考虑在格式字符串中使用“%zd”
+D:\TestCAll\test_2_24\test_2_24\test.c(107,9): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“size_t”
+D:\TestCAll\test_2_24\test_2_24\test.c(107,9): message : 请考虑在格式字符串中使用“%zd”
+D:\TestCAll\test_2_24\test_2_24\test.c(108,9): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“size_t”
+D:\TestCAll\test_2_24\test_2_24\test.c(108,9): message : 请考虑在格式字符串中使用“%zd”
+D:\TestCAll\test_2_24\test_2_24\test.c(109,9): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“size_t”
+D:\TestCAll\test_2_24\test_2_24\test.c(109,9): message : 请考虑在格式字符串中使用“%zd”
+D:\TestCAll\test_2_24\test_2_24\test.c(110,9): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“size_t”
+D:\TestCAll\test_2_24\test_2_24\test.c(110,9): message : 请考虑在格式字符串中使用“%zd”
+D:\TestCAll\test_2_24\test_2_24\test.c(111,9): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“size_t”
+D:\TestCAll\test_2_24\test_2_24\test.c(111,9): message : 请考虑在格式字符串中使用“%zd”
+D:\TestCAll\test_2_24\test_2_24\test.c(112,9): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“size_t”
+D:\TestCAll\test_2_24\test_2_24\test.c(112,9): message : 请考虑在格式字符串中使用“%zd”
+D:\TestCAll\test_2_24\test_2_24\test.c(118): warning C4716: “test1”: 必须返回一个值
+  test_2_24.vcxproj -> D:\TestCAll\test_2_24\x64\Debug\test_2_24.exe
